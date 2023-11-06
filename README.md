@@ -27,7 +27,7 @@ Discord: cu5t0mpeo
 | Contest   | Time              | Audit Time | High risk | Medium risk | Status     |
 | --------- | ----------------- | ---------- | --------- | ----------- | ---------- |
 | Allo V2   | 2023(09.11-09.21) | 3 days     | -         | 1 Medium    | END        |
-| LooksRare | 2023(10.30-11.04) | 1 days     | -         | -           | PROCESSING |
+| LooksRare | 2023(10.30-11.04) | 1 days     | -         | 1 Medium    | END        |
 
 ## CTF
 
