@@ -20,26 +20,27 @@ Discord: cu5t0mpeo
 
 Rank:1600(All-time) 1126(2023) 538(90-days)
 
-| Contest              | Time              | Audit Time | High risk | Medium risk | Submission | Rank | Security | Status |
-| -------------------- | ----------------- | ---------- | --------- | ----------- | ---------- | ---- | -------- | ------ |
-| The Wildcat Protocol | 2023(10.17-10.27) | 3 days     | 2         | 1           | 4          | -    | N        | END    |
-| NextGen              | 2023(10.31-11.14) | 2 days     | 2         | 1           | 6          | -    | N        | END    |
-| Revolution           | 2023(12.14-12.22) | 2 days     | -         | -           | 1          | -    | N        | END    |
-| Shell Protocol       | -                 | -          | -         | -           | 1          | -    | Y        | END    |
-| Salty.IO             | 2024(01.17-01.31) | 16 hours   | -         | -           | -          | -    | N        | Active |
+| Contest              | Time              | Audit Time | High risk | Medium risk | Submission | Rank | Security | nSloc | Status |
+| -------------------- | ----------------- | ---------- | --------- | ----------- | ---------- | ---- | -------- | ----- | ------ |
+| The Wildcat Protocol | 2023(10.17-10.27) | 3 days     | 2         | 1           | 4          | -    | N        |       | END    |
+| NextGen              | 2023(10.31-11.14) | 2 days     | 2         | 1           | 6          | -    | N        |       | END    |
+| Revolution           | 2023(12.14-12.22) | 2 days     | -         | -           | 1          | -    | N        |       | END    |
+| Shell Protocol       | -                 | -          | -         | -           | 1          | -    | Y        |       | END    |
+| Olas                 | 2023(12.22-01.09) | 8 hours    | -         | -           | 3          | -    | N        | 3817  | TBC    |
+| Salty.IO             | 2024(01.17-01.31) | 16 hours   | -         | -           | -          | -    | N        |       | Active |
 
 ### Sherlock
 
 Rank: 190
 
-| Contest                     | Time              | Audit Time | High risk | Medium risk | Submission | Rank   | Status |
-| --------------------------- | ----------------- | ---------- | --------- | ----------- | ---------- | ------ | ------ |
-| Allo V2                     | 2023(09.11-09.21) | 3 days     | -         | 1           | -          | -      | END    |
-| LooksRare                   | 2023(10.30-11.04) | 1 days     | -         | 1           | -          | -      | END    |
-| Notional Update #4          | 2023(11.18-11.25) | 1 days     | -         | -           | -          | -      | END    |
-| Nouns Builder               | 2023(11.22-12.01) | 6 hours    | 1         | -           | 1          | 15/297 | END    |
-| Olympus RBS 2.0             | 2023(12.5-12.26)  | 5 hours    | -         | 1           | 4          | 19/261 | END    |
-| Olympus On-Chain Governance | 2024(01.22-01.25) | 6 hours    | -         | -           | 2          | -      | TBC    |
+| Contest                     | Time              | Audit Time | High risk | Medium risk | Submission | Rank   | Security | nSloc | Status |
+| --------------------------- | ----------------- | ---------- | --------- | ----------- | ---------- | ------ | -------- | ----- | ------ |
+| Allo V2                     | 2023(09.11-09.21) | 3 days     | -         | 1           | -          | -      | N        |       | END    |
+| LooksRare                   | 2023(10.30-11.04) | 1 days     | -         | 1           | -          | -      | N        |       | END    |
+| Notional Update #4          | 2023(11.18-11.25) | 1 days     | -         | -           | -          | -      | N        |       | END    |
+| Nouns Builder               | 2023(11.22-12.01) | 6 hours    | 1         | -           | 1          | 15/297 | N        |       | END    |
+| Olympus RBS 2.0             | 2023(12.5-12.26)  | 5 hours    | -         | 1           | 4          | 19/261 | N        |       | END    |
+| Olympus On-Chain Governance | 2024(01.22-01.25) | 6 hours    | -         | -           | 2          | -      | N        |       | TBC    |
 
 ## CTF
 
