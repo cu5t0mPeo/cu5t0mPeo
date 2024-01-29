@@ -38,7 +38,7 @@ Rank: 306
 | LooksRare                   | 2023(10.30-11.04) | 1 days     | -         | 1           | -          | -      | END    |
 | Notional Update #4          | 2023(11.18-11.25) | 1 days     | -         | -           | -          | -      | END    |
 | Nouns Builder               | 2023(11.22-12.01) | 6 hours    | 1         | -           | 1          | 15/297 | END    |
-| Olympus RBS 2.0             | 2023(12.5-12.26)  | 5 hours    | -         | 1           | 4          | 19/261 | TBC    |
+| Olympus RBS 2.0             | 2023(12.5-12.26)  | 5 hours    | -         | 1           | 4          | 19/261 | END    |
 | Olympus On-Chain Governance | 2024(01.22-01.25) | 6 hours    | -         | -           | 2          | -      | TBC    |
 
 ## CTF
