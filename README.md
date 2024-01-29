@@ -25,9 +25,9 @@ Rank:1600(All-time) 1126(2023) 538(90-days)
 | The Wildcat Protocol | 2023(10.17-10.27) | 3 days     | 2         | 1           | 4          | -    | N        |       | END    |
 | NextGen              | 2023(10.31-11.14) | 2 days     | 2         | 1           | 6          | -    | N        |       | END    |
 | Revolution           | 2023(12.14-12.22) | 2 days     | -         | -           | 1          | -    | N        |       | END    |
-| Shell Protocol       | -                 | -          | -         | -           | 1          | -    | Y        |       | END    |
-| Olas                 | 2023(12.22-01.09) | 8 hours    | -         | -           | 3          | -    | N        | 3817  | TBC    |
-| Salty.IO             | 2024(01.17-01.31) | 16 hours   | -         | -           | -          | -    | N        |       | Active |
+| Shell Protocol       | -                 | -          | -         | -           | 1          | -    | Y        | 993   | END    |
+| Olas                 | 2023(12.22-01.09) | 12 hours   | -         | -           | 3          | -    | N        | 3817  | TBC    |
+| Salty.IO             | 2024(01.17-01.31) | 16 hours   | -         | -           | -          | -    | N        | 3288  | Active |
 
 ### Sherlock
 
