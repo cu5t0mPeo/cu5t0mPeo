@@ -20,19 +20,19 @@ Discord: cu5t0mpeo
 
 Rank:1600(All-time) 1126(2023) 538(90-days)
 
-| Contest              | Time              | Audit Time | High risk | Medium risk | Submission | rank | game results | Status |
-| -------------------- | ----------------- | ---------- | --------- | ----------- | ---------- | ---- | ------------ | ------ |
-| The Wildcat Protocol | 2023(10.17-10.27) | 3 days     | 2         | 1           | 4          | -    | Have         | END    |
-| NextGen              | 2023(10.31-11.14) | 2 days     | 2         | 1           | 6          | -    | Have         | END    |
-| Revolution           | 2023(12.14-12.22) | 2 days     | -         | -           | 1          | -    | Have         | END    |
-| Shell Protocol       | -                 | -          | -         | -           | 1          | -    | -            | END    |
-| Salty.IO             | 2024(01.17-01.31) | 16 hours   | -         | -           | -          | -    | Have         | Active |
+| Contest              | Time              | Audit Time | High risk | Medium risk | Submission | Rank | Security | Status |
+| -------------------- | ----------------- | ---------- | --------- | ----------- | ---------- | ---- | -------- | ------ |
+| The Wildcat Protocol | 2023(10.17-10.27) | 3 days     | 2         | 1           | 4          | -    | N        | END    |
+| NextGen              | 2023(10.31-11.14) | 2 days     | 2         | 1           | 6          | -    | N        | END    |
+| Revolution           | 2023(12.14-12.22) | 2 days     | -         | -           | 1          | -    | N        | END    |
+| Shell Protocol       | -                 | -          | -         | -           | 1          | -    | Y        | END    |
+| Salty.IO             | 2024(01.17-01.31) | 16 hours   | -         | -           | -          | -    | N        | Active |
 
 ### Sherlock
 
 Rank: 190
 
-| Contest                     | Time              | Audit Time | High risk | Medium risk | Submission | rank   | Status |
+| Contest                     | Time              | Audit Time | High risk | Medium risk | Submission | Rank   | Status |
 | --------------------------- | ----------------- | ---------- | --------- | ----------- | ---------- | ------ | ------ |
 | Allo V2                     | 2023(09.11-09.21) | 3 days     | -         | 1           | -          | -      | END    |
 | LooksRare                   | 2023(10.30-11.04) | 1 days     | -         | 1           | -          | -      | END    |
