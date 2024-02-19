@@ -18,7 +18,7 @@ Discord: cu5t0mpeo
 
 ### Code4rena
 
-Rank:1600(All-time) 1126(2023) 538(90-days)
+Rank:1471(All-time) 965(2023) 431(90-days)
 
 | Contest              | Time              | Audit Time | High risk | Medium risk | Submission | Rank | Security | nSloc | Status |
 | -------------------- | ----------------- | ---------- | --------- | ----------- | ---------- | ---- | -------- | ----- | ------ |
