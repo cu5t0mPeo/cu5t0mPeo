@@ -26,8 +26,11 @@ Rank:1600(All-time) 1126(2023) 538(90-days)
 | NextGen              | 2023(10.31-11.14) | 2 days     | 2         | 1           | 6          | -    | N        |       | END    |
 | Revolution           | 2023(12.14-12.22) | 2 days     | -         | -           | 1          | -    | N        |       | END    |
 | Shell Protocol       | -                 | -          | -         | -           | 1          | -    | Y        | 993   | END    |
-| Olas                 | 2023(12.22-01.09) | 12 hours   | -         | -           | 3          | -    | N        | 3817  | TBC    |
-| Salty.IO             | 2024(01.17-01.31) | 16 hours   | -         | -           | -          | -    | N        | 3288  | Active |
+| Olas                 | 2023(12.22-01.09) | 12 hours   | -         | -           | 3          | -    | N        | 3817  | END    |
+| decent               |                   | 8 hours    | 1         | 1           | 2          | -    | N        |       | END    |
+| curve                |                   | 6 hours    | 1         | 2           | 3          | -    | N        |       | END    |
+| Salty.IO             | 2024(01.17-01.31) | 16 hours   | -         | -           | -          | -    | N        | 3288  | TBC    |
+| AI Arena             | 2024(02.10-02.22) | 15 hours   |           |             |            |      |          | 1271  | Active |
 
 ### Sherlock
 
@@ -40,7 +43,8 @@ Rank: 190
 | Notional Update #4          | 2023(11.18-11.25) | 1 days     | -         | -           | -          | -      | N        |       | END    |
 | Nouns Builder               | 2023(11.22-12.01) | 6 hours    | 1         | -           | 1          | 15/297 | N        |       | END    |
 | Olympus RBS 2.0             | 2023(12.5-12.26)  | 5 hours    | -         | 1           | 4          | 19/261 | N        |       | END    |
-| Olympus On-Chain Governance | 2024(01.22-01.25) | 6 hours    | -         | -           | 2          | -      | N        |       | TBC    |
+| Olympus On-Chain Governance | 2024(01.22-01.25) | 6 hours    | -         | -           | 2          | -      | N        |       | END    |
+| Napier                      | 2024(02.14-02.26) | 4 hours    |           |             |            |        |          | 2050  | Active |
 
 ## CTF
 
