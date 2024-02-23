@@ -29,8 +29,8 @@ Rank:1471(All-time) 965(2023) 431(90-days)
 | Olas                 | 2023(12.22-01.09) | 12 hours   | -         | -           | 3          | -    | N        | 3817  | END    |
 | decent               |                   | 8 hours    | 1         | 1           | 2          | -    | N        |       | END    |
 | curve                |                   | 6 hours    | 1         | 2           | 3          | -    | N        |       | END    |
-| Salty.IO             | 2024(01.17-01.31) | 16 hours   | -         | -           | -          | -    | N        | 3288  | TBC    |
-| AI Arena             | 2024(02.10-02.22) | 15 hours   |           |             |            |      |          | 1271  | Active |
+| Salty.IO             | 2024(01.17-01.31) | 16 hours   | 2         | -           | 2          | -    | N        | 3288  | TBC    |
+| AI Arena             | 2024(02.10-02.22) | 30 hours   | 2         | 1           | 3          | -    | N        | 1271  | TBC    |
 
 ### Sherlock
 
@@ -44,7 +44,6 @@ Rank: 190
 | Nouns Builder               | 2023(11.22-12.01) | 6 hours    | 1         | -           | 1          | 15/297 | N        |       | END    |
 | Olympus RBS 2.0             | 2023(12.5-12.26)  | 5 hours    | -         | 1           | 4          | 19/261 | N        |       | END    |
 | Olympus On-Chain Governance | 2024(01.22-01.25) | 6 hours    | -         | -           | 2          | -      | N        |       | END    |
-| Napier                      | 2024(02.14-02.26) | 4 hours    |           |             |            |        |          | 2050  | Active |
 
 ## CTF
 
