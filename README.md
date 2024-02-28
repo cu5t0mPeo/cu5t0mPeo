@@ -44,10 +44,16 @@ Rank: 190
 | Nouns Builder               | 2023(11.22-12.01) | 6 hours    | 1         | -           | 1          | 15/297 | N        |       | END    |
 | Olympus RBS 2.0             | 2023(12.5-12.26)  | 5 hours    | -         | 1           | 4          | 19/261 | N        |       | END    |
 | Olympus On-Chain Governance | 2024(01.22-01.25) | 6 hours    | -         | -           | 2          | -      | N        |       | END    |
+| Avail                       | -                 | 1 hours    | -         | -           | -          | -      | Y        |       | END    |
 
 ## CTF
 
 Nothing?!
+
+## Reports completed
+
+https://github.com/cu5t0mPeo/ReportInPass
+
 <!--
 **cu5t0mPeo/cu5t0mPeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
