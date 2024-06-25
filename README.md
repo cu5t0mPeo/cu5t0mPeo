@@ -32,7 +32,7 @@ Rank:1471(All-time) 965(2023) 431(90-days)
 
 ### Sherlock
 
-Rank: 190
+Rank: 145
 
 | Contest                    | High risk | Medium risk | Rank    | Status |
 | -------------------------- | --------- | ----------- | ------- | ------ |
@@ -42,7 +42,7 @@ Rank: 190
 | RadicalxChange             | 1         | -           | 4 rd    | END    |
 | Axis Finance               | 2         | 1           | 14 rd   | END    |
 | TITLES Publishing Protocol | 2         | 3           | 20 + rd | END    |
-| Arrakis-valantis-sot       | -         | -           | -       | Active |
+| Arrakis-valantis-sot       | 3         | 1 (solo)    | 2 rd    | END    |
 
 ## CTF
 
