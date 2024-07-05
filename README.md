@@ -20,29 +20,32 @@ Discord: cu5t0mpeo
 
 Rank:1471(All-time) 965(2023) 431(90-days)
 
-| Contest              | High risk | Medium risk | Submission | Rank | Security | Status |
-| -------------------- | --------- | ----------- | ---------- | ---- | -------- | ------ |
-| The Wildcat Protocol | 2         | 1           | 4          | -    | N        | END    |
-| NextGen              | 2         | 1           | 6          | -    | N        | END    |
-| decent               | 1         | 1           | 2          | -    | N        | END    |
-| curve                | 1         | 2           | 3          | -    | N        | END    |
-| Salty.IO             | 2         | -           | 2          | -    | N        | END    |
-| Renzo                | -         | -           | 7          | -    | N        | TBC    |
-| Noya protocol        | -         | -           | 15         | -    | N        | TBC    |
+| Contest              | High risk | Medium risk | Content | Status |
+| -------------------- | --------- | ----------- | ------- | ------ |
+| The Wildcat Protocol | 2         | 1           |         | END    |
+| NextGen              | 2         | 1           |         | END    |
+| decent               | 1         | 1           |         | END    |
+| curve                | 1         | 2           |         | END    |
+| Salty.IO             | 2         | -           |         | END    |
+| Renzo                | 1         | 2 (why!?)   |         | END    |
+| Noya protocol        | 4         | 5           |         | END    |
 
 ### Sherlock
 
 Rank: 145
 
-| Contest                    | High risk | Medium risk | Rank    | Status |
-| -------------------------- | --------- | ----------- | ------- | ------ |
-| Nouns Builder              | 1         | -           | 15 rd   | END    |
-| Olympus RBS 2.0            | -         | 1           | 19 rd   | END    |
-| Rio Network                | 1         | -           | 3 rd    | END    |
-| RadicalxChange             | 1         | -           | 4 rd    | END    |
-| Axis Finance               | 2         | 1           | 14 rd   | END    |
-| TITLES Publishing Protocol | 2         | 3           | 20 + rd | END    |
-| Arrakis-valantis-sot       | 3         | 1 (solo)    | 2 rd    | END    |
+| Contest                    | High risk | Medium risk | Content          | Rank    | Status |
+| -------------------------- | --------- | ----------- | ---------------- | ------- | ------ |
+| Nouns Builder              | 1         | -           | auction          | 15 rd   | END    |
+| Olympus RBS 2.0            | -         | 1           | dao              | 19 rd   | END    |
+| Rio Network                | 1         | -           | restaking        | 3 rd    | END    |
+| RadicalxChange             | 1         | -           | -                | 4 rd    | END    |
+| Axis Finance               | 2         | 1           | auction          | 14 rd   | END    |
+| TITLES Publishing Protocol | 2         | 3           | NFT              | 20 + rd | END    |
+| Arrakis-valantis-sot       | 3         | 1 (solo)    | Pool and Vault   | 2 rd    | END    |
+| PoolTogether               | -         | 1           | -                | 15 rd   | END    |
+| Andromeda                  | -         | -           | Rust & stake     | -       | TBC    |
+| Orderly Network            | -         | -           | LayerZero v2 OFT | -       | TBC    |
 
 ## CTF
 
