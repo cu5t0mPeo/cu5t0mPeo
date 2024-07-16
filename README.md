@@ -45,7 +45,7 @@ Rank: 145
 | Arrakis-valantis-sot       | 3         | 1 (solo)    | Pool and Vault   | 2 rd    | END    |
 | PoolTogether               | -         | 1           | -                | 15 rd   | END    |
 | Andromeda                  | -         | -           | Rust & stake     | -       | TBC    |
-| Orderly Network            | -         | -           | LayerZero v2 OFT | -       | TBC    |
+| Orderly Network            | -         | -           | LayerZero v2 OFT | 3 rd    | END    |
 
 ## CTF
 
