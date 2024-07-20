@@ -12,7 +12,7 @@ twitter
 
 Discord: cu5t0mpeo
 
-
+Email: cu5t0mpeo@gmail.com
 
 ## Audit
 
