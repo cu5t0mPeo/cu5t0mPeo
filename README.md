@@ -1,6 +1,6 @@
 # About cu5t0mPeo
 
-Hey friends, I started researching blockchain security in June 2023 and got my own vulnerabilities in code4rena, sherlock, etc. Currently I am an independent blockchain security researcher. Here you can see my competition status on various platforms and some of the CTF competitions I have participated in.
+Hey friends, I am a blockchain security researcher and got my own vulnerabilities in code4rena, sherlock, etc. Currently I am an independent blockchain security researcher. Here you can see my competition status on various platforms and some of the CTF competitions I have participated in.
 
 ## Contact Information
 
