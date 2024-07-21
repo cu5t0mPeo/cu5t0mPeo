@@ -34,18 +34,18 @@ Rank:1471(All-time) 965(2023) 431(90-days)
 
 Rank: 145
 
-| Contest                    | High risk | Medium risk | Content          | Rank    | Status |
-| -------------------------- | --------- | ----------- | ---------------- | ------- | ------ |
-| Nouns Builder              | 1         | -           | auction          | 15 rd   | END    |
-| Olympus RBS 2.0            | -         | 1           | dao              | 19 rd   | END    |
-| Rio Network                | 1         | -           | restaking        | 🥉       | END    |
-| RadicalxChange             | 1         | -           | -                | 4 rd    | END    |
-| Axis Finance               | 2         | 1           | auction          | 14 rd   | END    |
-| TITLES Publishing Protocol | 2         | 3           | NFT              | 20 + rd | END    |
-| Arrakis-valantis-sot       | 3         | 1 (solo)    | Pool and Vault   | 🥈       | END    |
-| PoolTogether               | -         | 1           | -                | 15 rd   | END    |
-| Andromeda                  | -         | -           | Rust & stake     | -       | TBC    |
-| Orderly Network            | -         | 2 (1 solo)  | LayerZero v2 OFT | 🥉       | END    |
+| Contest                    | High risk | Medium risk | Content              | Rank    | Status |
+| -------------------------- | --------- | ----------- | -------------------- | ------- | ------ |
+| Nouns Builder              | 1         | -           | auction              | 15 rd   | END    |
+| Olympus RBS 2.0            | -         | 1           | dao                  | 19 rd   | END    |
+| Rio Network                | 1         | -           | restaking            | 🥉       | END    |
+| RadicalxChange             | 1         | -           | -                    | 4 rd    | END    |
+| Axis Finance               | 2         | 1           | auction              | 14 rd   | END    |
+| TITLES Publishing Protocol | 2         | 3           | NFT                  | 20 + rd | END    |
+| Arrakis-valantis-sot       | 3         | 1 (solo)    | Pool and Vault       | 🥈       | END    |
+| PoolTogether               | -         | 1           | -                    | 15 rd   | END    |
+| Andromeda                  | -         | -           | Rust & stake &Cosmos | -       | TBC    |
+| Orderly Network            | -         | 2 (1 solo)  | LayerZero v2 OFT     | 🥉       | END    |
 
 ## CTF
 
