@@ -32,7 +32,7 @@ Rank:1471(All-time) 965(2023) 431(90-days)
 
 ### Sherlock
 
-Rank: 145
+Rank: 105
 
 | Contest                    | High risk | Medium risk | Content              | Rank    | Status |
 | -------------------------- | --------- | ----------- | -------------------- | ------- | ------ |
@@ -42,10 +42,11 @@ Rank: 145
 | RadicalxChange             | 1         | -           | -                    | 4 rd    | END    |
 | Axis Finance               | 2         | 1           | auction              | 14 rd   | END    |
 | TITLES Publishing Protocol | 2         | 3           | NFT                  | 20 + rd | END    |
-| Arrakis-valantis-sot       | 3         | 1 (solo)    | Pool and Vault       | 🥈       | END    |
+| Arrakis-valantis-sot       | 3         | 1 (solo)    | Pool & Vault         | 🥈       | END    |
 | PoolTogether               | -         | 1           | -                    | 15 rd   | END    |
-| Andromeda                  | -         | -           | Rust & stake &Cosmos | -       | TBC    |
+| Andromeda                  | -         | 2(1 solo)   | Rust & stake &Cosmos | 4 rd    | END    |
 | Orderly Network            | -         | 2 (1 solo)  | LayerZero v2 OFT     | 🥉       | END    |
+| Velocimeter                | -         | -           | Pool & ve(3,3)       | -       | TBC    |
 
 ## CTF
 
