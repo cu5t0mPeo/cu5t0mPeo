@@ -1,6 +1,8 @@
 # About cu5t0mPeo
 
-Hey friends, I am a blockchain security researcher and got my own vulnerabilities in code4rena, sherlock, etc. Currently I am an independent blockchain security researcher. Here you can see my competition status on various platforms and some of the CTF competitions I have participated in.
+Hey friends, I am a blockchain security researcher and got my own vulnerabilities in code4rena, sherlock, etc. Currently I am an independent blockchain security researcher.\n
+I joined an audit firm (BlockSec) on September 2, 2024, where I’ve met many professional Web3 auditors and gained valuable knowledge.
+Here you can see my competition status on various platforms and some of the CTF competitions I have participated in.
 
 ## Contact Information
 
