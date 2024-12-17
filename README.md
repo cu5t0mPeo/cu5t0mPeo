@@ -8,7 +8,7 @@ Here you can see my competition status on various platforms and some of the CTF 
 
 I am currently looking for new opportunities. If there is a good opportunity, you can contact me through the following methods:
 
-twitter
+twitter:@i_wannd6884
 
 
 
